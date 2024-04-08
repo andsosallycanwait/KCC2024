@@ -1,0 +1,7 @@
+batch_size = 32
+epoch = 4
+exact = 11.48036253776435
+f1 = 35.794257680790324
+global_step = 450
+learning_rate = 3e-05
+total = 662
